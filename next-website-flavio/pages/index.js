@@ -13,9 +13,19 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Flavio
+          Welcome to flavio
           
         </h1>
+        <div>
+          <h2>
+            Home
+          </h2>
+          <h2>About</h2>
+          <h2>Contact</h2>
+          <h2>Gallery</h2>
+        </div>
+        
+        
 
         
       </main>
